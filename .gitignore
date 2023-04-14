@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CURDWithEF/.vs/CURDWithEF
+/.vs
+/CURDWithEF/CURDWithEF/bin
+/CURDWithEF/CURDWithEF/obj/Debug
