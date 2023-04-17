@@ -122,6 +122,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\EmployeeController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\NewController.cs" />
     <Compile Include="Controllers\StudentController.cs" />
     <Compile Include="Controllers\TestController.cs" />
     <Compile Include="Global.asax.cs">
@@ -170,6 +171,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
     <Folder Include="Views\Employee\" />
+    <Folder Include="Views\New\" />
     <Folder Include="Views\Student\" />
     <Folder Include="Views\Test\" />
   </ItemGroup>
